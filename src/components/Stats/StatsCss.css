@@ -1,0 +1,17 @@
+div > h2{
+    
+    text-align: center;
+    font-size: 4rem;
+    margin-bottom: 3rem;
+  
+}
+
+.hey{
+margin:150px;
+
+}
+
+.imggit{
+    display: flex;
+    gap:25px;
+}
