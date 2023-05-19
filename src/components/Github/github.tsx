@@ -4,7 +4,7 @@ import  GitHubCalendar from "react-github-calendar";
  function Github(){
 
     return(
-        <div className="main">
+        <div className="main" id="github">
           <h2>Github Contribution</h2>
          
           <GitHubCalendar style={{margin:"auto",width:"100%"}}
